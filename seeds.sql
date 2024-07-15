@@ -1,0 +1,2 @@
+-- Left empty so the user can input fields themselves using inquirer.
+-- This file can be used for testing.
